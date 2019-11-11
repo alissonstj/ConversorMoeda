@@ -36,5 +36,11 @@ export default {
 }
 </script>
 
-<style scoped>   
+<style scoped>  
+    .conversor{
+        max-width: 250px;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 212, 123, 0.2);
+
+    }
 </style>
